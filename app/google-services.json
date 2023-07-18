@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962691804715",
+    "project_id": "mg-polytechnic",
+    "storage_bucket": "mg-polytechnic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962691804715:android:1ba361fedd48f0f817446e",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962691804715-68ubmkbct8nsiacm4vd6v2o1n4jqnnjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIU6EAGShGWBxNR7sDh9uxPDT1LO85Fvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962691804715-68ubmkbct8nsiacm4vd6v2o1n4jqnnjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

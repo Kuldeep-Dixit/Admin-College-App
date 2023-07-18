@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Admin College App</string>
+    <string name="delete_notice">Delete Notice</string>
+    <string name="upload_faculty">Upload Faculty</string>
+    <string name="upload_e_book">Upload E-Book</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="upload_notice">Upload Notice</string>
+    <string name="select_image">Select Image</string>
+    <string name="notice_title">Notice Title</string>
+
+</resources>
